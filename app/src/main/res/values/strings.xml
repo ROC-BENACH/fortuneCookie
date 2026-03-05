@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Fortune Cookies App</string>
+    <string name="default_fortune">Toca la galeta per veure la teva frase!</string>
+    <string-array name="fortunes">
+        <item>La paciència és la clau de la saviesa.</item>
+        <item>Avui és un bon dia per començar alguna cosa nova.</item>
+        <item>No tinguis por de fer un pas endavant.</item>
+        <item>La felicitat és dins teu, no fora.</item>
+    </string-array>
+    <string name="reload">Nova frase</string>
+    <string name="copy">Copia</string>
+    <string name="share">Comparteix</string>
+    <string name="cookie_image">Galleta de la fortuna</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "355459863053",
+    "project_id": "fortunecookie-32254",
+    "storage_bucket": "fortunecookie-32254.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355459863053:android:a4d5704807bf47ccacbb44",
+        "android_client_info": {
+          "package_name": "com.exemple.fortunecookieapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBirL15jFEevulmsJmUz6rDrf_GGZBilE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
